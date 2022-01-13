@@ -1,1 +1,4 @@
-Dataset: https://www.kaggle.com/lyly99/logodet3k
+Dataset1: https://www.kaggle.com/lyly99/logodet3k
+	Dataset/LogoDet-3K
+Dataset2: https://zenodo.org/record/5101018#.YeBi6fDMK5c  
+	Dataset/LogosInTheWild
