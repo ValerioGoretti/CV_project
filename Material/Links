@@ -12,3 +12,7 @@ YoloCustomDataset:https://github.com/Abhi-899/YOLOV4-Custom-Object-Detection
 
 MediumYoloCreator:https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe
 GitDarknet:https://github.com/pjreddie/darknet
+
+
+YOLO.V5
+https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb#scrollTo=kTvDNSILZoN9
