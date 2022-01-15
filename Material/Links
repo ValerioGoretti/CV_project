@@ -2,3 +2,13 @@ Dataset1: https://www.kaggle.com/lyly99/logodet3k
 	Dataset/LogoDet-3K
 Dataset2: https://zenodo.org/record/5101018#.YeBi6fDMK5c  
 	Dataset/LogosInTheWild
+
+
+
+YOLO.V4
+YoutubeVideo: https://www.youtube.com/watch?v=ebAykr9YZ30
+Colab: https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing#scrollTo=ymeEhEnFbsdm
+YoloCustomDataset:https://github.com/Abhi-899/YOLOV4-Custom-Object-Detection
+
+MediumYoloCreator:https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe
+GitDarknet:https://github.com/pjreddie/darknet
